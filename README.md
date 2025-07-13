@@ -1,11 +1,31 @@
 # HD Rumble for Xbox Controllers
 
-This project brings **HD Rumble-style feedback** to Xbox controllers using MIDI files. It translates MIDI note data into varying vibration patterns—simulating richer tactile feedback like Nintendo Switch’s HD Rumble.
+# HD Rumble for Xbox Controllers
 
-🎵 MIDI note triggers  
-🎮 Xbox controller vibration  
-🔊 Optional MIDI audio playback  
-🪟 Windows GUI interface using Tkinter  
+![HD Rumble Banner](pic.png)
+
+> Simulate rich, dynamic vibration feedback (HD Rumble-style) on Xbox controllers by mapping MIDI note data to vibration patterns.
+
+---
+
+## 🎮 Project Overview
+
+This tool lets you play MIDI files and feel them via **Xbox controller vibrations** using various programmable rumble patterns. It supports audio playback (optional) and includes a GUI for ease of use.
+
+- 🎼 Converts MIDI notes to vibration events
+- 🧠 Multiple tactile patterns like `fade`, `pulse`, `sine`, and `burst`
+- 🎛️ Left/Right motor mapping based on note pitch or instrument
+- 🎵 Optional MIDI audio playback for immersive experience
+- 🖥️ Simple and elegant Tkinter GUI
+
+---
+
+## 🖥️ GUI Preview
+
+- Select a `.mid` file  
+- Check/uncheck "Play MIDI Audio"  
+- Click **Play** to start vibration  
+- Click **Stop** to end the playback  
 
 ---
 
