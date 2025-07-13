@@ -1,7 +1,4 @@
 # HD Rumble for Xbox Controllers
-
-# HD Rumble for Xbox Controllers
-
 ![HD Rumble Banner](pic.png)
 
 > Simulate rich, dynamic vibration feedback (HD Rumble-style) on Xbox controllers by mapping MIDI note data to vibration patterns.
